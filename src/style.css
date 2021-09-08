@@ -5,6 +5,11 @@ body{
 a{
     padding: 15px;
 }
+a:active,
+a:visited{
+    color: green;
+}
+
 img{
     display: block;
     margin: 0 auto;
