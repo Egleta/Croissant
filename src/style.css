@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: #F8E49C;
+}
+a{
+    padding: 15px;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    max-width: 1000px;
+    border-radius: 10px ;
+}
